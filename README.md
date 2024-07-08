@@ -12,7 +12,7 @@ I yearn for the day when Notepad++ implements REGEX, so that I can do this bette
 After this, <kbd>BMG</kbd> should be available in the <kbd>Language</kbd> menu.
 
 ## File format association
-.BMG files are encoded and WBMGT decodes them into .TXT files. Naturally, I saw no point in associating the BMG UDL preset with the .TXT format by default, so you will have to select it from the <kbd>Language</kbd> menu every time you wish to view a file with the BMG syntax highlighting.
+.BMG files are encoded and [WBMGT](https://szs.wiimm.de/wbmgt/) decodes them into .TXT files. Naturally, I saw no point in associating the BMG UDL preset with the .TXT format by default, so you will have to select it from the <kbd>Language</kbd> menu every time you wish to view a file with the BMG syntax highlighting.
 
 **If you wish to associate the UDL with the .TXT format, follow these instructions:**
 1. In Notepad++, go to <kbd>Language</kbd> -> <kbd>User Defined Language</kbd> -> <kbd>Define your language…</kbd>. This will open the UDL preset for editing.
